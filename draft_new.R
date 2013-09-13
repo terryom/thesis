@@ -1,5 +1,5 @@
 # Thesis R-code
-#This version last checked 17-8-2013
+#This version last checked 12-9-2013
 
 #---- Preliminary
 #setwd("~/Documents/thesis/draft")
